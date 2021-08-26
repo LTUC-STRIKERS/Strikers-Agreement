@@ -1,8 +1,12 @@
 # Strikers-Agreement
 ## Cooperation Plan
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
-
-
+## members 
+1. Yazeed Aloufee
+2. Ahmad Quraan
+3. Duaa Jaradat
+4. Mansoor Kalash
+5. Trad Alhariri
 ## Yazeed Aloufee
 ### What are the key strengths of each person on the team?
 * Problem solving, organizational skills, good communicator. 
