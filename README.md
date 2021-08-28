@@ -1,3 +1,5 @@
+## [link to hour trello projet](https://trello.com/b/EkKP9gmb/project301)
+https://trello.com/b/EkKP9gmb/project301
 # Strikers-Agreement
 ## Cooperation Plan
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
@@ -130,4 +132,5 @@ Plan out what your team’s Git workflow looks like for coding tasks.
 * After a feature is completed. 
 ### How will you communicate that it’s time to merge?
 * A slack message. WhatsApp.
+
 
